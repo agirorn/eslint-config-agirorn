@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-agirorn",
+  "version": "0.0.0",
+  "description": "My preferd eslint rules",
+  "main": "agirorn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agirorn/eslint-config-agirorn.git"
+  },
+  "keywords": [
+    "eslint",
+    "mystery",
+    "rules"
+  ],
+  "author": "Ægir Örn Símonarson <agirorn@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agirorn/eslint-config-agirorn/issues"
+  },
+  "homepage": "https://github.com/agirorn/eslint-config-agirorn#readme"
+}
