@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/agirorn/eslint-config-agirorn/issues"
   },
-  "homepage": "https://github.com/agirorn/eslint-config-agirorn#readme"
+  "homepage": "https://github.com/agirorn/eslint-config-agirorn#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^3.0.1"
+  }
 }
