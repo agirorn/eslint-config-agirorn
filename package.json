@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-agirorn",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "My preferd eslint rules",
   "main": "agirorn.js",
   "scripts": {
