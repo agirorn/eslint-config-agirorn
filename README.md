@@ -8,7 +8,7 @@ These are my eslint rules there are many like it but this one is mine.
 Install module
 
 ```shelljs
-npm i eslint-config-agirorn
+npm i eslint eslint-config-agirorn eslint-plugin-import@latest --save-dev
 ```
 
 Add **extends** to **.eslintrc**
