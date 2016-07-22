@@ -3,6 +3,22 @@ eslint-config-agirorn
 
 These are my eslint rules there are many like it but this one is mine.
 
+## Usage
+
+Install module
+
+```shelljs
+npm i eslint-config-agirorn
+```
+
+Add **extends** to **.eslintrc**
+
+```json
+{
+  "extends": "agirorn"
+}
+```
+
 ## Based on [eslint-config-airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base)
 
 Then augmented for my personal taste.
